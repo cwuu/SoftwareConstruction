@@ -1,0 +1,8 @@
+### EiffelStudio ###
+# The compilation directory
+EIFGENs
+
+#ignore(?)
+#project.ecf
+src.ecf
+application.e
